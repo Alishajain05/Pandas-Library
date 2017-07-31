@@ -3,7 +3,7 @@
 
 Overview
 ---------------
-This code was written to test my ability to write a few functions the pandas libray perfoms using basic functions. 
+This code was written to test my ability to write a few functions the pandas library performs using basic functions. 
 
 -------------------
 
