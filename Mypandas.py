@@ -267,7 +267,6 @@ class DataFrame(object):
             else:
                 raise Exception("New row do not match the existing header count. Please reenter. Existing headers are: ", ' '.join(self.header))
     
-    # ===== task 4 =====
 
 
     # ===== task 5 =====
